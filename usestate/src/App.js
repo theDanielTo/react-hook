@@ -5,7 +5,7 @@ export default function App() {
     <>
       <button>-</button>
       <span>0</span>
-      <button>-</button>
+      <button>+</button>
     </>
   );
 }
